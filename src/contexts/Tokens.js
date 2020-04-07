@@ -645,6 +645,12 @@ export const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'ZRX',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xaE76c84C9262Cdb9abc0C2c8888e62Db8E22A0bF'
+    },
+    '0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd' : {
+      [NAME]: 'PieDAO BTC++',
+      [SYMBOL]: 'BTC++',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '0x0b5e26829B72654620cD431E685FD71ad956E58E'
     }
   },
   4: {
